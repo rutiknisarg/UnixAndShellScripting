@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 #Write a ShellScript to develop a menu driven calculator program.
 
 #The script should ask for below following options:
